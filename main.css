@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Arkhip";
-  src: url("font/Arkhip-Regular.ttf") format("truetype");
+  src: url("font/arkhip_font-webfont.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Manrope";
-  src: url("font/regular.otf") format("opentype");
+  src: url("font/regular-webfont.woff2") format("woff2");
   font-weight: regular;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Manrope";
-  src: url("font/bold.otf") format("opentype");
+  src: url("font/bold-webfont.woff2") format("woff2");
   font-weight: bold;
   font-style: regularl;
 }
